@@ -2,6 +2,6 @@
   "name": "Dash-to-dock Datetime",
   "description": "Add datetime widgets to the dock",
   "uuid": "d2d-datetime@victrix.io",
-  "shell-version": ["48", "49"],
+  "shell-version": ["48", "49", "50"],
   "version": 0.6
 }
